@@ -1,0 +1,14 @@
+C:\Users\dinhv\source\repos\web1\web1\bin\Debug\net8.0\web1.exe
+C:\Users\dinhv\source\repos\web1\web1\bin\Debug\net8.0\web1.deps.json
+C:\Users\dinhv\source\repos\web1\web1\bin\Debug\net8.0\web1.runtimeconfig.json
+C:\Users\dinhv\source\repos\web1\web1\bin\Debug\net8.0\web1.dll
+C:\Users\dinhv\source\repos\web1\web1\bin\Debug\net8.0\web1.pdb
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.AssemblyInfoInputs.cache
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.AssemblyInfo.cs
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.csproj.CoreCompileInputs.cache
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.dll
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\refint\web1.dll
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.pdb
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\web1.genruntimeconfig.cache
+C:\Users\dinhv\source\repos\web1\web1\obj\Debug\net8.0\ref\web1.dll
